@@ -6,7 +6,7 @@
 
 >  Android Developer passionate about creating innovative mobile solutions
 
-I specialize in developing high-quality Android applications with a focus on clean architecture and modern development practices. Currently building solutions on Linux-based systems and exploring cutting-edge mobile technologies.
+I specialize in developing high-quality Android applications using modern Android development practices. I create scalable applications with Jetpack Compose, following Clean Architecture principles and SOLID patterns. Currently focusing on Material 3 Design, implementing best practices like dependency injection with Hilt, Kotlin Coroutines & Flow for asynchronous operations, and unit testing for robust applications.
 
 ## 🚀 Professional Focus
 
