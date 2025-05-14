@@ -45,7 +45,6 @@ I specialize in developing high-quality Android applications using modern Androi
 ## 📫 Contact
 
 - 📧 Email: enesselcu25@gmail.com
-- 💼 Portfolio: [Google Play Store](https://play.google.com/store/apps/developer?id=Enes+Sel%C3%A7uk&gl=TR)
 
 ---
 
