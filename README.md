@@ -1,16 +1,14 @@
-<div align="right">
-  <img align="right" alt="Android Dev" src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="400"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Enes;Android+%26+Kotlin+Multiplatform+Developer;Jetpack+Compose+%7C+KMP+%7C+Clean+Architecture" alt="Typing headline" />
 </div>
 
-# Hello, I'm Enes 👋
+I build Android apps with Jetpack Compose, Clean Architecture, and SOLID — using Material 3, Hilt, Coroutines & Flow, and solid testing practices. I also work with **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)** to share business logic and UI across platforms, while keeping a native feel on Android and iOS.
 
->  Android Developer passionate about creating innovative mobile solutions
-
-I specialize in developing high-quality Android applications using modern Android development practices. I create scalable applications with Jetpack Compose, following Clean Architecture principles and SOLID patterns. Currently focusing on Material 3 Design, implementing best practices like dependency injection with Hilt, Kotlin Coroutines & Flow for asynchronous operations, and unit testing for robust applications.
 
 ## 🚀 Professional Focus
 
 - 📱 Android Development (Kotlin & Java)
+- 🧩 Kotlin Multiplatform (KMP) & Compose Multiplatform
 - 🏗️ Clean Architecture & Design Patterns
 - 🛠️ Modern Android Development Tools
 - 🔄 Continuous Learning & Innovation
@@ -32,12 +30,13 @@ I specialize in developing high-quality Android applications using modern Androi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesselcukk&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=enesselcukk&layout=compact&theme=transparent&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=00000000" alt="Top Languages" height="150"/>
 </div>
 
 ## 🎯 Current Focus
 
 - Exploring Jetpack Compose
+- Kotlin Multiplatform (KMP) & Compose Multiplatform
 - Implementing Clean Architecture
 - Contributing to Open Source
 - Building Scalable Applications
